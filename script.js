@@ -174,7 +174,11 @@ const rates = {
   },
 };
 
-const formatter = new Intl.NumberFormat("en-US", { style: "currency", currency: "USD" });
+const formatter = new Intl.NumberFormat("en-US", {
+  style: "currency",
+  currency: "USD",
+  maximumFractionDigits: 0,
+});
 
 function setMonthlyPayment() {
   if (selectedTermOption.dataset.term === "2") {
