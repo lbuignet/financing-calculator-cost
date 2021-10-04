@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calculator</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <div class="__financing-calculator-container">
+      <div class="__financing-calculator-inner-container">
+        <div class="__financing-calculator-title">
+          <h2 class="__financing-calculator-initial-title">
+            Tell us a bit about your financial situation.
+          </h2>
+        </div>
+        <!-- ------- -->
+        <!-- Page 1 -->
+        <div class="__financing-calculator-1">
+          <div class="__financing-calculator-user-input-1">
+            <label> How much do you want to borrow ?</label>
+
+            <div>
+              <input class="__financing-calculator-input" type="text" required />
+              <span class="__financing-calculator-input-placeholder"
+                >Type the equipment cost here</span
+              >
+              <span class="__financing-calculator-input-helper-text"
+                >(Amount between $10,000 - $999,999)</span
+              >
+
+              <span class="__financing-calculator-input-fake-value"></span>
+            </div>
+
+            <button disabled class="__financing-calculator-button-1">OK</button>
+          </div>
+        </div>
+
+        <!-- Page 2 -->
+        <div class="__financing-calculator-2 __financing-calculator-hide-page">
+          <div class="__financing-calculator-user-input-2">
+            <div class="__financing-calculator-2-equipment-cost-div">
+              <p class="__financing-calculator-2-equipment-cost"></p>
+              <span class="__financing-calculator-2-equipment-cost-edit">edit</span>
+            </div>
+            <div
+              class="
+                __financing-calculator-2-credit-rating-text-div __financing-calculator-hide-page
+              "
+            >
+              <p class="__financing-calculator-2-credit-rating-text"></p>
+              <span class="__financing-calculator-2-credit-rating-text-edit">edit</span>
+            </div>
+            <p class="__financing-calculator-2-credit-rating-question">
+              What's your estimated credit rating?
+            </p>
+            <div class="__financing-calculator-credit-options-container">
+              <div class="__financing-calculator-credit-option" data-value="excellent">
+                <h4>Excellent</h4>
+                <p>Score 740</p>
+                <p>& above</p>
+              </div>
+              <div class="__financing-calculator-credit-option" data-value="great">
+                <h4>Great</h4>
+                <p>Score</p>
+                <p>670 - 739</p>
+              </div>
+              <div class="__financing-calculator-credit-option" data-value="good">
+                <h4>Good</h4>
+                <p>Score</p>
+                <p>580 - 669</p>
+              </div>
+              <div class="__financing-calculator-credit-option" data-value="fair">
+                <h4>Fair</h4>
+                <p>Score</p>
+                <p>550 - 580</p>
+              </div>
+            </div>
+          </div>
+          <div class="__financing-calculator-2-bottom __financing-calculator-hide-page">
+            <h5>That's all the information we need!</h5>
+            <button class="__financing-calculator-2-see-my-quote">SEE MY QUOTE</button>
+          </div>
+        </div>
+
+        <!-- Page 3 -->
+        <div class="__financing-calculator-3 __financing-calculator-hide-page">
+          <div class="__financing-calculator-title-3">
+            <h2 class="__financing-calculator-3-quote-value"></h2>
+          </div>
+          <div class="__financing-calculator-title-text">
+            <p>Select a term option below to apply.</p>
+          </div>
+          <div class="__financing-calculator-3-options">
+            <div class="__financing-calculator-3-option" data-term="2">
+              <div class="__financing-calculator-3-option-left">
+                <p class="__refinancing-calculator-3-rate-range-2"></p>
+                <small> / month</small>
+              </div>
+              <div class="__financing-calculator-3-option-right">
+                <span>2 years</span>
+              </div>
+            </div>
+            <div class="__financing-calculator-3-option" data-term="3">
+              <div class="__financing-calculator-3-option-left">
+                <p class="__refinancing-calculator-3-rate-range-3"></p>
+                <small> / month</small>
+              </div>
+              <div class="__financing-calculator-3-option-right">
+                <span>3 years</span>
+              </div>
+            </div>
+            <div class="__financing-calculator-3-option" data-term="4">
+              <div class="__financing-calculator-3-option-left">
+                <p class="__refinancing-calculator-3-rate-range-4"></p>
+                <small>/ month</small>
+              </div>
+              <div class="__financing-calculator-3-option-right">
+                <span>4 years</span>
+              </div>
+            </div>
+            <div class="__financing-calculator-3-option" data-term="5">
+              <div class="__financing-calculator-3-option-left">
+                <p class="__refinancing-calculator-3-rate-range-5"></p>
+                <small> / month</small>
+              </div>
+              <div class="__financing-calculator-3-option-right">
+                <span>5 years</span>
+              </div>
+            </div>
+            <div class="__financing-calculator-3-option" data-term="6">
+              <div class="__financing-calculator-3-option-left">
+                <p class="__refinancing-calculator-3-rate-range-6"></p>
+                <small> / month</small>
+              </div>
+              <div class="__financing-calculator-3-option-right">
+                <span>6 years</span>
+              </div>
+            </div>
+            <div class="__financing-calculator-3-option" data-term="7">
+              <div class="__financing-calculator-3-option-left">
+                <p class="__refinancing-calculator-3-rate-range-7"></p>
+                <small> / month</small>
+              </div>
+              <div class="__financing-calculator-3-option-right">
+                <span>7 years</span>
+              </div>
+            </div>
+          </div>
+          <div class="__financing-calculator-3-bottom">
+            <p>
+              All applicants’ and their principals’ and all guarantors’ credit will be reviewed
+              before Amur Equipment Finance, Inc offers a financing contract. The payment amounts
+              provided by this Quote Tool are not an offer and may be changed after the full credit
+              review.
+            </p>
+            <div class="__financing-calculator-3-buttons">
+              <button disabled class="__financing-calculator-3-email-button">EMAIL QUOTE</button>
+              <button disabled class="__financing-calculator-3-apply-button">APPLY NOW</button>
+            </div>
+            <span class="__financing-calculator-start-over">Start Over</span>
+          </div>
+        </div>
+
+        <!-- Page 4 -->
+        <div class="__financing-calculator-4 __financing-calculator-hide-page">
+          <div class="__financing-calculator-4-title">
+            <h2>We're excited to work with you!</h2>
+            <p>Let's get started on your application.</p>
+          </div>
+          <div class="__financing-calculator-4-my-plan">
+            <h5>MY PLAN</h5>
+            <div class="__financing-calculator-4-my-plan-item">
+              <p>Finance amount</p>
+              <span class="__financing-calculator-4-finance-amount"></span>
+            </div>
+            <div class="__financing-calculator-4-my-plan-item">
+              <p>Loan Term</p>
+              <span class="__financing-calculator-4-loan-term"></span>
+            </div>
+            <div class="__financing-calculator-4-my-plan-item">
+              <p>Monthly payment</p>
+              <span class="__financing-calculator-4-monthly-payment"></span>
+            </div>
+            <p class="__financing-calculator-4-my-plan-text">
+              All applicants’ and their principals’ and all guarantors’ credit will be reviewed
+              before Amur Equipment Finance, Inc offers a financing contract. The payment amounts
+              provided by this Quote Tool are not an offer and may be changed after the full credit
+              review.
+            </p>
+          </div>
+          <div class="__financing-calculator-4-body">
+            <h6>Here's what you can expect:</h6>
+            <p>This application takes about 3-5 minutes to complete</p>
+            <p>Share your business information so we can do a credit check</p>
+            <p>Our credit check is a soft pull which means it won’t affect your credit rating</p>
+            <p>Upon completion, an Amur representative will contact you with available options</p>
+          </div>
+          <div class="__financing-calculator-4-continue-button">
+            <a href="#">CONTINUE</a>
+          </div>
+          <span class="__financing-calculator-start-over">Start Over</span>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
