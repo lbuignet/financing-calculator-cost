@@ -40,7 +40,6 @@ const rateRange5 = document.querySelector(".__refinancing-calculator-3-rate-rang
 const rateRange6 = document.querySelector(".__refinancing-calculator-3-rate-range-6");
 const rateRange7 = document.querySelector(".__refinancing-calculator-3-rate-range-7");
 const applyNowButton = document.querySelector(".__financing-calculator-3-apply-button");
-const emailQuoteButton = document.querySelector(".__financing-calculator-3-email-button");
 const startOver = document.querySelectorAll(".__financing-calculator-start-over");
 
 //page 4
@@ -292,7 +291,6 @@ function handleTermOptionClick(e) {
   selectedTermOption.classList.add("__financing-calculator-3-option-selected");
 
   applyNowButton.disabled = false;
-  emailQuoteButton.disabled = false;
 }
 
 function handleApplyNowClick() {
