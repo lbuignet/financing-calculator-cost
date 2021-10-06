@@ -286,8 +286,8 @@ function handleTermOptionClick(e) {
     selectedTermOption.classList.remove("__financing-calculator-3-option-selected");
   }
 
-  selectedTermOption = e.target;
-
+selectedTermOption = e.currentTarget;
+  
   selectedTermOption.classList.add("__financing-calculator-3-option-selected");
 
   applyNowButton.disabled = false;
