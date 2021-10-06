@@ -8,7 +8,7 @@
   --calculator-border-radius: 10px;
 
   /* font */
-  --calculator-font-family: Tahoma, sans-serif;
+  --calculator-font-family: Inter webfont, sans-serif;
 }
 
 /* Outer container  - No margin, padding and everything centered*/
