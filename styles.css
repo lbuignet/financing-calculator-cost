@@ -359,6 +359,7 @@
 .__financing-calculator-3-option-left {
   display: flex;
   align-items: flex-end;
+  width: 200px;
 }
 
 .__financing-calculator-3-option-left p {
@@ -419,6 +420,7 @@
   text-decoration: underline;
   color: var(--calculator-blue-color);
   cursor: pointer;
+  margin-left: 5px;
 }
 
 /* Page 4 */
@@ -481,9 +483,15 @@
 }
 
 .__financing-calculator-4-my-plan-item p {
+  flex: 0.5;
   font-family: var(--calculator-font-family);
   color: #939393;
   font-size: 13px;
+}
+
+.__financing-calculator-4-my-plan-item span {
+  flex: 0.5;
+  text-align: end;
 }
 
 .__financing-calculator-4-finance-amount {
@@ -833,9 +841,16 @@
   }
 
   .__financing-calculator-3-option-left p {
-    font-size: 13px;
+    font-size: 11px;
     font-height: 20px;
   }
+  
+    .__financing-calculator-3-option-left small {
+    font-size: 10px;
+  }
+
+  .__financing-calculator-3-option-left {
+    width: 150px;
 
   .__financing-calculator-3-option-right span {
     font-size: 13px;
