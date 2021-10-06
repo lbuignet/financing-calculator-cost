@@ -740,7 +740,7 @@
     line-height: 28px;
   }
     .__financing-calculator-4-body p {
-    line-height: 25px
+    line-height: 25px;
   }
 }
 
@@ -858,13 +858,22 @@
     line-height: 27px;
   }
   .__financing-calculator-4-body p {
-    line-height: 25px
+    line-height: 25px;
   }
   .__financing-calculator-credit-option h6 {
   margin: 0 0 0px 0;
   }
+  
   .__financing-calculator-credit-option p {
   margin: 10px 0px 0px 0px;
+  }
+  
+  .__financing-calculator-3-option-left p {
+  font-size: 16px;
+  }
+  
+  .__financing-calculator-3-bottom p {
+  font-size: 16px;
   }
 }
 
