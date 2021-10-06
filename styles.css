@@ -662,7 +662,8 @@
   }
   
   .__financing-calculator-credit-option p {
-  line-height: 10px;
+  line-height: 20px;
+  margin: 10px 0px 0px 0px;
   }
 
   .__financing-calculator-title h2 {
@@ -682,7 +683,9 @@
   }
   
   .__financing-calculator-credit-option p {
-  line-height: 10px;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 10px 0px 0px 0px;
   }
 
   .__financing-calculator-input-placeholder {
@@ -837,12 +840,12 @@
   .__financing-calculator-2-equipment-cost,
   .__financing-calculator-2-credit-rating-text {
     font-size: 15px;
-    font-height: 22px;
+    line-height: 22px;
   }
 
   .__financing-calculator-3-option-left p {
     font-size: 11px;
-    font-height: 20px;
+    line-height: 20px;
   }
   
     .__financing-calculator-3-option-left small {
@@ -880,7 +883,7 @@
   }
   
   .__financing-calculator-credit-option p {
-  margin: 10px 0px 0px 0px;
+  margin: 15px 0px 0px 0px;
   }
   
   .__financing-calculator-3-option-left p {
@@ -900,6 +903,6 @@
   margin: 0 0 0px 0;
   }
   .__financing-calculator-credit-option p {
-  margin: 10px 0px 0px 0px;
+  margin: 5px 0px 0px 0px;
   }
 }
