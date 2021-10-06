@@ -729,7 +729,10 @@
   }
   .__financing-calculator-2-credit-rating-question {
     font-size: 17px;
-    font-height: 28px;
+    line-height: 28px;
+  }
+    .__financing-calculator-4-body p {
+    line-height: 25px
   }
 }
 
@@ -804,11 +807,11 @@
   }
 
   .__financing-calculator-4-my-plan {
-    width: 250px;
+    width: 350px;
   }
 
   .__financing-calculator-4-title {
-    width: 300px;
+    width: 350px;
   }
 
   .__financing-calculator-3-apply-button {
@@ -844,7 +847,10 @@
   
   .__financing-calculator-2-credit-rating-question {
     font-size: 17px;
-    font-height: 28px;
+    line-height: 27px;
+  }
+  .__financing-calculator-4-body p {
+    line-height: 25px
   }
 }
 
