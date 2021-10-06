@@ -191,7 +191,7 @@
   flex-direction: column;
   align-items: center;
   margin: 0 0 20px 0;
-  width: 100%;
+  width: 90%;
   padding: 0;
 }
 
@@ -654,7 +654,7 @@
 
   .__financing-calculator-title h2 {
     font-size: 20px;
-    width: 100%;
+    width: 90%;
     text-align: left;
     margin-left: 10px;
   }
@@ -721,7 +721,7 @@
   }
 
   .__financing-calculator-title h2 {
-    width: 100%;
+    width: 90%;
     text-align: left;
     margin-left: 0px;
     font-size: 16px;
@@ -825,7 +825,7 @@
   }
 
   .__financing-calculator-title {
-    width: 100%;
+    width: 90%;
   }
 
   .__financing-calculator-title h2 {
@@ -838,6 +838,6 @@
 
 @media (max-width: 400px) {
   .__financing-calculator-title h2 {
-    margin-left: 0px;
+    margin-left: 10px;
   }
 }
