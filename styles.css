@@ -731,7 +731,7 @@
 
 @media (max-width: 500px) {
   .__financing-calculator-inner-container {
-    width: 470px;
+    width: 95%;
     display: flex;
     flex-direction: column;
     align-items: center;
