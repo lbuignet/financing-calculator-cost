@@ -246,8 +246,8 @@
   background: #fff;
   border-radius: var(--calculator-border-radius);
   color: #787d78 !important;
-  margin-right: 5px;
-  padding: 20px 62px 20px 20px;
+  margin-right: 15px;
+  padding: 20px 30px 20px 30px;
   cursor: pointer;
   -moz-transition: all 0.2s ease-in;
   -o-transition: all 0.2s ease-in;
@@ -265,7 +265,7 @@
 }
 
 .__financing-calculator-credit-option p {
-  margin: 10px 0px 0px 0px;
+  margin: 5px 0px 0px 0px;
   font-family: var(--calculator-font-family);
   font-size: 13px;
   line-height:15px;
@@ -727,6 +727,10 @@
     margin-left: 0px;
     font-size: 16px;
   }
+  .__financing-calculator-2-credit-rating-question {
+    font-size: 17px;
+    font-height: 28px;
+  }
 }
 
 @media (max-width: 500px) {
@@ -836,6 +840,11 @@
     width: 100%;
     text-align: left;
     margin-left: 10px;
+  }
+  
+  .__financing-calculator-2-credit-rating-question {
+    font-size: 17px;
+    font-height: 28px;
   }
 }
 
