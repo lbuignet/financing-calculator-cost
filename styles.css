@@ -197,7 +197,7 @@
 
 .__financing-calculator-user-input-2 {
   background: var(--calculator-light-blue-color);
-  padding: 30px 55px 30px 30px;
+  padding: 20px 20px 20px 20px;
   border-radius: var(--calculator-border-radius);
   height: fit-content;
   width: 100%;
@@ -265,10 +265,10 @@
 }
 
 .__financing-calculator-credit-option p {
-  margin: 0;
+  margin: 10px 0px 0px 0px;
   font-family: var(--calculator-font-family);
   font-size: 13px;
-  line-height:25px;
+  line-height:15px;
 }
 
 .__financing-calculator-2-bottom {
@@ -637,7 +637,7 @@
 
   .__financing-calculator-scores-mobile {
     display: flex;
-    width: 110px;
+    width: 130px;
     justify-content: flex-left;
   }
 
@@ -743,7 +743,7 @@
 
   .__financing-calculator-scores-mobile {
     display: flex;
-    width: 110px;
+    width: 130px;
     justify-content: flex-left;
   }
 
@@ -813,11 +813,13 @@
 
   .__financing-calculator-2-equipment-cost,
   .__financing-calculator-2-credit-rating-text {
-    font-size: 13px;
+    font-size: 15px;
+    font-height: 22px;
   }
 
   .__financing-calculator-3-option-left p {
     font-size: 13px;
+    font-height: 20px;
   }
 
   .__financing-calculator-3-option-right span {
