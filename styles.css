@@ -377,8 +377,8 @@
   font-weight: lighter;
   color: var(--calculator-light-gray-color);
   opacity: 0.9;
-  font-size: 16px;
-  line-height: 35px;
+  font-size: 15px;
+  line-height: 30px;
   margin: 25px 0 25px 3px;
 }
 
