@@ -127,6 +127,7 @@
   pointer-events: none;
   left: 20px;
   top: 19px;
+  font-size: 11px;
   transition: 0.2s ease all;
   font-family: var(--calculator-font-family);
   color: var(--calculator-light-gray-color);
@@ -139,7 +140,7 @@
   top: 23px;
   font-family: var(--calculator-font-family);
   color: var(--calculator-dark-gray-color);
-  font-size: 12px;
+  font-size: 10px;
 }
 
 .__financing-calculator-input-fake-value {
@@ -618,7 +619,7 @@ __refinancing-calculator-3-rate-range-2 {
   }
 
   .__financing-calculator-input-placeholder {
-    font-size: 12px;
+    font-size: 11px;
     margin-top: 5px;
   }
 
@@ -710,7 +711,7 @@ __refinancing-calculator-3-rate-range-2 {
   }
 
   .__financing-calculator-input-placeholder {
-    font-size: 12px;
+    font-size: 11px;
     margin-top: 5px;
   }
 
