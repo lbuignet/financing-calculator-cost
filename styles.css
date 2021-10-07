@@ -136,10 +136,10 @@
   position: absolute;
   pointer-events: none;
   right: 20px;
-  top: 21px;
+  top: 23px;
   font-family: var(--calculator-font-family);
   color: var(--calculator-dark-gray-color);
-  font-size: 13px;
+  font-size: 12px;
 }
 
 .__financing-calculator-input-fake-value {
