@@ -449,6 +449,8 @@ __refinancing-calculator-3-rate-range-2 {
   color: var(--calculator-orange-color);
   font-family: var(--calculator-font-family);
   margin: 10px 0 40px 0;
+  text-align: -webkit-auto;
+  
 }
 
 .__financing-calculator-4-my-plan {
