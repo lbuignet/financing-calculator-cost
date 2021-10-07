@@ -316,6 +316,7 @@
 .__financing-calculator-title-text p {
   font-family: var(--calculator-font-family);
   color: var(--calculator-light-gray-color);
+  text-align: -webkit-auto;
 }
 
 .__financing-calculator-3-option {
