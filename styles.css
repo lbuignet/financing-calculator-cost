@@ -531,6 +531,7 @@ __refinancing-calculator-3-rate-range-2 {
   opacity: 0.6;
   font-size: 14px;
   margin: 5px 0;
+  text-align: -webkit-auto;
 }
 
 .__financing-calculator-4-continue-button {
@@ -690,7 +691,7 @@ __refinancing-calculator-3-rate-range-2 {
   }
   
   .__financing-calculator-4-title {
-  width: 540px;
+  width: 440px;
 }
 }
 
@@ -772,6 +773,7 @@ __refinancing-calculator-3-rate-range-2 {
   }
     .__financing-calculator-4-body p {
     line-height: 30px;
+    text-align: -webkit-auto;
   }
   
   .__financing-calculator-3-option-left p {
@@ -909,7 +911,9 @@ __refinancing-calculator-3-rate-range-2 {
   }
   .__financing-calculator-4-body p {
     line-height: 30px;
+    text-align: -webkit-auto;
   }
+    
   .__financing-calculator-credit-option h6 {
   margin: 5px 0px 0px 0px;
   }
