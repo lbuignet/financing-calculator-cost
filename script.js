@@ -203,7 +203,7 @@ function handleEquipmentCostChange(e) {
     equipmentCostInputFake.textContent = formatter.format(e.target.value);
   }
 
-  if (e.target.value >= 10000 && e.target.value <= 9999999) {
+  if (e.target.value >= 10000 && e.target.value <= 15000000) {
     page1Button.disabled = false;
   } else {
     page1Button.disabled = true;
