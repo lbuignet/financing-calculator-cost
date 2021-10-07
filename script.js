@@ -77,8 +77,8 @@ const rates = {
       rate2: 0.050295,
     },
     fair: {
-      rate1: 0.049665,
-      rate2: 0.052185,
+      rate1: 0.055625,
+      rate2: 0.0584472,
     },
   },
   three: {
@@ -95,8 +95,8 @@ const rates = {
       rate2: 0.034965,
     },
     fair: {
-      rate1: 0.03507,
-      rate2: 0.036855,
+      rate1: 0.039278,
+      rate2: 0.0412776,
     },
   },
   four: {
@@ -113,8 +113,8 @@ const rates = {
       rate2: 0.026985,
     },
     fair: {
-      rate1: 0.02793,
-      rate2: 0.029295,
+      rate1: 0.031282,
+      rate2: 0.0328104,
     },
   },
   five: {
@@ -131,8 +131,8 @@ const rates = {
       rate2: 0.02226,
     },
     fair: {
-      rate1: 0.023625,
-      rate2: 0.02478,
+      rate1: 0.02646,
+      rate2: 0.0277536,
     },
   },
   six: {
@@ -149,8 +149,8 @@ const rates = {
       rate2: 0.019005,
     },
     fair: {
-      rate1: 0.020475,
-      rate2: 0.021525,
+      rate1: 0.022932,
+      rate2: 0.024108,
     },
   },
   seven: {
@@ -167,8 +167,8 @@ const rates = {
       rate2: 0.016905,
     },
     fair: {
-      rate1: 0.01848,
-      rate2: 0.019425,
+      rate1: 0.020698,
+      rate2: 0.021756,
     },
   },
 };
