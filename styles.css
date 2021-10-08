@@ -876,6 +876,38 @@ margin-bottom: 0px;
     flex-direction: column;
     align-items: center;
   }
+  
+       .__financing-calculator-title {
+  width: 375px;
+  }
+  
+     .__financing-calculator-1 {
+  width: 375px;
+  }
+  
+       .__financing-calculator-2 {
+  width: 375px;
+  }
+  
+        .__financing-calculator-3 {
+  width: 375px;
+  }
+  
+          .__financing-calculator-4 {
+  width: 375px;
+  }
+  
+  .__financing-calculator-4-title {
+  width: 375px;
+  }
+  
+  .__financing-calculator-4-my-plan {
+    width: 375px;
+  }
+  
+  .__financing-calculator-4-body {
+    width: 375px;
+  }
 
   .__financing-calculator-scores-desktop {
     display: none;
@@ -917,11 +949,7 @@ margin-bottom: 0px;
     padding: 15px 15px;
     align-items: center;
   }
-
-  .__financing-calculator-3 {
-    width: 95%;
-  }
-
+  
   .__financing-calculator-4 {
     display: flex;
     flex-direction: column;
@@ -1018,55 +1046,61 @@ margin-bottom: 0px;
   font-size: 12px;
   }
     
-      .__financing-calculator-1 {
-  width: 400px
-  }
-  
     .__financing-calculator-user-input-1 {
   width: 100%
   }
-    
-    .__financing-calculator-2 {
-  width: 400px;
-  }
-    
-    .__financing-calculator-3 {
-  width: 100%;
- }
-    
+
  .__financing-calculator-inner-container {
     width: 100%;
 }
 
 @media (max-width: 400px) {
-  .__financing-calculator-title h2 {
-    margin-left: 10px;
+    .__financing-calculator-title h2 {
+  margin-left: 10px;
   }
   
-    .__h6test {
-  font-size: 12px;
+       .__financing-calculator-user-input-1 {
+  width: 100%;
   }
   
-      .__financing-calculator-1 {
-  width: 350px
-  }
-  
-    .__financing-calculator-user-input-1 {
-  width: 100%
-  }
-  
-  .__financing-calculator-title {
-    width: 350px;
-  }
-  
-  .__financing-calculator-2 {
-  width: 350px;
-  }
-  
-  .__financing-calculator-3 {
-    width: 100%;
-  }
   
   .__financing-calculator-inner-container {
     width: 100%;
+  }
+  
+     .__financing-calculator-title {
+  width: 340px;
+  }
+  
+     .__financing-calculator-1 {
+  width: 340px;
+  }
+  
+       .__financing-calculator-2 {
+  width: 340px;
+  }
+  
+        .__financing-calculator-3 {
+  width: 340px;
+  }
+  
+          .__financing-calculator-4 {
+  width: 340px;
+  }
+  
+  .__financing-calculator-4-title {
+  width: 340px;
+  }
+  
+  .__financing-calculator-4-my-plan {
+    width: 340px;
+  }
+  
+  .__financing-calculator-4-body {
+    width: 340px;
+  }
+  
+     .__h6test {
+  font-size: 12px;
+  }
 }
