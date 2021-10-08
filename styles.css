@@ -79,6 +79,7 @@
   font-family: var(--calculator-font-family);
   color: var(--calculator-dark-gray-color);
   margin-left: 4px;
+  font-size: 16px;
 }
 
 .__financing-calculator-user-input-1 div {
@@ -131,8 +132,8 @@
   position: absolute;
   pointer-events: none;
   left: 20px;
-  top: 19px;
-  font-size: 11px;
+  top: 15px;
+  font-size: 12px;
   transition: 0.2s ease all;
   font-family: var(--calculator-font-family);
   color: var(--calculator-light-gray-color);
