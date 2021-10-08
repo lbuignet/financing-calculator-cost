@@ -722,7 +722,8 @@ margin-bottom: 0px;
   
     .__financing-calculator-3-bottom p {
   font-size: 16px;
-    line-height: 30px;
+  line-height: 30px;
+  text-align: left;
   }
   
   .__financing-calculator-4-title {
@@ -744,11 +745,6 @@ margin-bottom: 0px;
   .__financing-calculator-4-my-plan {
     width: 550px;
   }
-  
- .__financing-calculator-3-bottom p {
-    align: left;
-    }
-    
 }
 
 @media (max-width: 640px) {
@@ -844,7 +840,8 @@ margin-bottom: 0px;
   
     .__financing-calculator-3-bottom p {
   font-size: 14px;
-    line-height: 25px;
+  line-height: 25px;
+  text-align: left;
   }
   
     .__h6test {
@@ -871,10 +868,6 @@ margin-bottom: 0px;
   .__financing-calculator-2 {
   width: 450px;
   }
-  
- .__financing-calculator-3-bottom p {
-    align: left;
-    }
 }
 
 @media (max-width: 500px) {
@@ -1032,6 +1025,7 @@ margin-bottom: 0px;
   .__financing-calculator-3-bottom p {
   font-size: 14px;
   line-height: 25px;
+  text-align: left;
   }
     
   .__financing-calculator-credit-option p {
@@ -1053,12 +1047,7 @@ margin-bottom: 0px;
     
  .__financing-calculator-3-option {
     padding: 20px 15px;
-}
-    
- .__financing-calculator-3-bottom p {
-    align: left;
-    }
-  
+  } 
 }
 
 @media (max-width: 400px) {
