@@ -201,6 +201,10 @@
   padding: 0;
 }
 
+.__h6test {
+  font-size: 11px;
+}
+
 .__financing-calculator-user-input-2 {
   background: var(--calculator-light-blue-color);
   padding: 20px 20px 20px 20px;
