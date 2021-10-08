@@ -85,7 +85,7 @@
 .__financing-calculator-user-input-1 div {
   position: relative;
   margin: 15px 0;
-  width: 565px;
+  width: 100%;
 }
 
 .__financing-calculator-input:focus ~ .__financing-calculator-input-placeholder,
