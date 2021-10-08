@@ -542,7 +542,7 @@ margin-bottom: 0px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  width: 450px;
+  width: 475px;
   margin: 10px 0px 0px 0px
 }
 
@@ -775,7 +775,7 @@ margin-bottom: 0px;
   }
 
   .__financing-calculator-4-body {
-    width: 450px;
+    width: 475px;
   }
 
   .__financing-calculator-4-continue-button {
