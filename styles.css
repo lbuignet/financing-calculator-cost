@@ -877,36 +877,55 @@ margin-bottom: 0px;
     align-items: center;
   }
   
+    .__financing-calculator-title {
+    width: 325px;
+  }
+  
        .__financing-calculator-title {
-  width: 375px;
+  width: 325px;
   }
   
      .__financing-calculator-1 {
-  width: 375px;
+  width: 325px;
   }
   
        .__financing-calculator-2 {
-  width: 375px;
+  width: 325px;
   }
   
         .__financing-calculator-3 {
-  width: 375px;
+  width: 325px;
   }
   
           .__financing-calculator-4 {
-  width: 375px;
+  width: 325px;
   }
   
   .__financing-calculator-4-title {
-  width: 375px;
+  width: 325px;
   }
   
   .__financing-calculator-4-my-plan {
-    width: 375px;
+    width: 325px;
   }
   
   .__financing-calculator-4-body {
-    width: 375px;
+    width: 325px;
+  }
+  
+  .__financing-calculator-4-body p {
+    line-height: 30px;
+    text-align: -webkit-auto;
+  }
+  
+  .__financing-calculator-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+    .__financing-calculator-4-continue-button {
+    width: 325px;
   }
 
   .__financing-calculator-scores-desktop {
@@ -949,31 +968,9 @@ margin-bottom: 0px;
     padding: 15px 15px;
     align-items: center;
   }
-  
-  .__financing-calculator-4 {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .__financing-calculator-4-body {
-    width: 350px;
-  }
-
-  .__financing-calculator-4-continue-button {
-    width: 305px;
-  }
 
   .__financing-calculator-start-over {
-    width: 270px;
-  }
-
-  .__financing-calculator-4-my-plan {
-    width: 350px;
-  }
-
-  .__financing-calculator-4-title {
-    width: 350px;
+    width: 325px;
   }
 
   .__financing-calculator-3-apply-button {
@@ -1004,10 +1001,6 @@ margin-bottom: 0px;
     padding: 5px 9px;
   }
 
-  .__financing-calculator-title {
-    width: 425px;
-  }
-
   .__financing-calculator-title h2 {
     font-size: 17px;
     width: 100%;
@@ -1018,10 +1011,6 @@ margin-bottom: 0px;
   .__financing-calculator-2-credit-rating-question {
     font-size: 16px;
     line-height: 27px;
-  }
-  .__financing-calculator-4-body p {
-    line-height: 30px;
-    text-align: -webkit-auto;
   }
     
    .__financing-calculator-credit-option {
