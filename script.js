@@ -278,7 +278,7 @@ function handleSeeMyQuoteClick(e) {
   ).toFixed()}`;
 
   page3.classList.remove(hideClass);
-  quoteValueText.textContent = `Here's your estimated quote for ${formatter.format(equipmentCost)}!`;
+  quoteValueText.textContent = `Estimate Quote for ${formatter.format(equipmentCost)}!`;
 }
 
 function handleTermOptionClick(e) {
