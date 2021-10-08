@@ -736,6 +736,14 @@ margin-bottom: 0px;
   .__financing-calculator-2 {
   width: 550px;
   }
+  
+      .__financing-calculator-1 {
+  width: 550px
+  }
+  
+  .__financing-calculator-4-my-plan {
+    width: 550px;
+  }
     
 }
 
@@ -844,8 +852,12 @@ margin-bottom: 0px;
   padding-bottom: 5px;
   }
   
+  .__financing-calculator-4-my-plan {
+    width: 450px;
+  }
+  
     .__financing-calculator-1 {
-  width: 525px
+  width: 450px
   }
   
     .__financing-calculator-user-input-1 {
@@ -853,7 +865,7 @@ margin-bottom: 0px;
   }
   
   .__financing-calculator-2 {
-  width: 525px;
+  width: 450px;
   }
 }
 
