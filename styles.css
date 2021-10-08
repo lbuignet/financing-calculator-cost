@@ -312,7 +312,7 @@
 /* Page 3 */
 
 .__financing-calculator-3 {
-  width: 620px;
+  width: 100%;
 }
 
 .__financing-calculator-title-3 h2 {
@@ -457,14 +457,14 @@ margin-bottom: 0px;
 /* Page 4 */
 
 .__financing-calculator-4 {
-  width: 620px;
+  width: 80%;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
 .__financing-calculator-4-title {
-  width: 475px;
+  width: 80%;
 }
 
 .__financing-calculator-4-title h2 {
@@ -488,7 +488,7 @@ margin-bottom: 0px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 475px;
+  width: 80%;
 }
 
 .__financing-calculator-4-my-plan .__financing-calculator-4-my-plan-text {
@@ -542,7 +542,7 @@ margin-bottom: 0px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  width: 475px;
+  width: 80%;
   margin: 10px 0px 0px 0px
 }
 
@@ -565,11 +565,11 @@ margin-bottom: 0px;
 
 .__financing-calculator-4-continue-button {
   margin: 30px 0;
-  width: 450px;
+  width: 80%;
 }
 
 .__financing-calculator-start-over {
-  width: 450px;
+  width: 80%;
 }
 
 .__financing-calculator-4-continue-button a {
