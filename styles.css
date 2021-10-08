@@ -198,7 +198,7 @@
   flex-direction: column;
   align-items: center;
   margin: 0 0 20px 0;
-  width: 100%;
+  width: 565px;
   padding: 0;
 }
 
@@ -312,7 +312,7 @@
 /* Page 3 */
 
 .__financing-calculator-3 {
-  width: 100%;
+  width: 565px;
 }
 
 .__financing-calculator-title-3 h2 {
@@ -457,7 +457,7 @@ margin-bottom: 0px;
 /* Page 4 */
 
 .__financing-calculator-4 {
-  width: 100%;
+  width: 565px;
   display: flex;
   flex-direction: column;
   align-items: center;
