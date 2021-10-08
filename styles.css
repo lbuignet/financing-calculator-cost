@@ -275,8 +275,8 @@
 
 .__financing-calculator-credit-option p {
   font-family: var(--calculator-font-family);
-  font-size: 13px;
-  line-height:15px;
+  font-size: 14px;
+  line-height:16px;
 }
 
 .__financing-calculator-2-bottom {
@@ -718,7 +718,6 @@ __refinancing-calculator-3-rate-range-2 {
   .__financing-calculator-credit-option p {
     font-size: 14px;
     line-height: 20px;
-    margin: 8px 0px 0px 0px;
   }
 
   .__financing-calculator-input-placeholder {
@@ -780,7 +779,7 @@ __refinancing-calculator-3-rate-range-2 {
     font-size: 16px;
   }
   .__financing-calculator-2-credit-rating-question {
-    font-size: 17px;
+    font-size: 16px;
     line-height: 28px;
   }
     .__financing-calculator-4-body p {
@@ -923,7 +922,7 @@ __refinancing-calculator-3-rate-range-2 {
   }
   
   .__financing-calculator-2-credit-rating-question {
-    font-size: 17px;
+    font-size: 16px;
     line-height: 27px;
   }
   .__financing-calculator-4-body p {
@@ -941,8 +940,13 @@ __refinancing-calculator-3-rate-range-2 {
   
   .__financing-calculator-3-bottom p {
   font-size: 14px;
-    line-height: 25px;
+  line-height: 25px;
   }
+    
+  .__financing-calculator-credit-option p {
+    font-size: 14px;
+    line-height: 18px;
+    }
     
       .__h6test {
   font-size: 12px;
