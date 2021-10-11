@@ -22,7 +22,7 @@
 }
 
 .__financing-calculator-inner-container {
-  width: auto;
+  width: 650px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -58,7 +58,7 @@
   flex-direction: column;
   align-items: center;
   margin: 0 0 20px 0;
-  width: 565px;
+  width: 100%;
   padding: 0;
 }
 
@@ -67,7 +67,7 @@
   padding: 30px 55px 30px 30px;
   border-radius: var(--calculator-border-radius);
   height: fit-content;
-  width: 565px;
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -198,16 +198,8 @@
   flex-direction: column;
   align-items: center;
   margin: 0 0 20px 0;
-  width: 565px;
+  width: 100%;
   padding: 0;
-}
-
-.__h6test {
-  font-size: 13px;
-}
-
-.h6 {
-  font-size: 13px;
 }
 
 .__financing-calculator-user-input-2 {
@@ -316,7 +308,7 @@
 /* Page 3 */
 
 .__financing-calculator-3 {
-  width: 565px;
+  width: 100%;
 }
 
 .__financing-calculator-title-3 h2 {
@@ -462,7 +454,7 @@ margin-bottom: 0px;
 /* Page 4 */
 
 .__financing-calculator-4 {
-  width: 565px;
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
