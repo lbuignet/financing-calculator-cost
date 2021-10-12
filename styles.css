@@ -316,6 +316,8 @@
   font-family: var(--calculator-font-family);
   text-align: -webkit-left;
   width: 100%;
+  margin-bottom: 15px;
+  font-weight: 600;
 }
 
 .__financing-calculator-title-3 h2 {
