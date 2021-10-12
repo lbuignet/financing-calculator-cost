@@ -310,6 +310,14 @@
   width: 100%;
 }
 
+.__financing-calculator-3-quote-value p {
+  font-size: 18px;
+  color: var(--calculator-blue-color);
+  font-family: var(--calculator-font-family);
+  text-align: -webkit-left;
+  width: 100%;
+}
+
 .__financing-calculator-title-3 h2 {
   font-family: var(--calculator-font-family);
   color: var(--calculator-orange-color);
