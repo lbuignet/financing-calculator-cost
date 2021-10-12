@@ -478,20 +478,20 @@ margin-bottom: 0px;
   font-family: var(--calculator-font-family);
   margin: 0;
   font-size: 25px;
-  font-weight: 500;
+  font-weight: 550;
 }
 
 .__financing-calculator-4-title p {
   color: var(--calculator-orange-color);
   font-family: var(--calculator-font-family);
-  margin: 10px 0 40px 0;
+  margin: 10px 0 25px 0;
   text-align: -webkit-auto;
   
 }
 
 .__financing-calculator-4-my-plan {
   background: var(--calculator-light-blue-color);
-  padding: 30px 30px;
+  padding: 15px 20px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -510,8 +510,8 @@ margin-bottom: 0px;
   color: var(--calculator-blue-color);
   font-family: var(--calculator-font-family);
   text-align: center;
-  font-size: 14px;
-  margin: 15px 0 30px 0;
+  font-size: 15px;
+  margin: 0px 0 20px 0;
 }
 
 .__financing-calculator-4-my-plan-item {
@@ -540,7 +540,7 @@ margin-bottom: 0px;
 }
 
 .__financing-calculator-4-finance-amount {
-  font-size: 23px;
+  font-size: 20px;
   color: var(--calculator-dark-gray-color);
 }
 
