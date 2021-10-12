@@ -463,7 +463,7 @@ margin-bottom: 0px;
   width: 100%;
 }
 
-.__financing-calculator-4-title h2 {
+.__financing-calculator-4-title span {
   color: var(--calculator-blue-color);
   font-family: var(--calculator-font-family);
   margin: 0;
