@@ -464,7 +464,7 @@ margin-bottom: 0px;
 }
 
 .__financing-calculator-4-title h2 {
-  color: var(--calculator-dark-gray-color);
+  color: var(--calculator-blue-color);
   font-family: var(--calculator-font-family);
   margin: 0;
   font-size: 25px;
@@ -549,7 +549,7 @@ margin-bottom: 0px;
 
 .__financing-calculator-4-body h6 {
   font-family: var(--calculator-font-family);
-  color: var(--calculator-dark-gray-color);
+  color: var(--calculator-blue-color);
   font-size: 18px;
   opacity: 0.7;
   margin-bottom: 25px;
