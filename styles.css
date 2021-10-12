@@ -310,8 +310,8 @@
   width: 100%;
 }
 
-.__financing-calculator-3-quote-value span {
-  font-size: 18px;
+.__financing-calculator-3-quote-value {
+  font-size: 22px;
   color: var(--calculator-blue-color);
   font-family: var(--calculator-font-family);
   text-align: -webkit-left;
@@ -525,7 +525,7 @@ margin-bottom: 0px;
   color: #939393;
   font-size: 13px;
   margin-top: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
   text-align: left;
   padding-left: 20px;
 }
