@@ -216,7 +216,7 @@
   .__financing-calculator-2-equipment-cost,
 .__financing-calculator-user-input-2 .__financing-calculator-2-credit-rating-question,
 .__financing-calculator-user-input-2 .__financing-calculator-2-credit-rating-text {
-  color: var(--calculator-dark-gray-color);
+  color: var(--calculator-blue-color);
   font-family: var(--calculator-font-family);
   margin: 0 0 30px 0;
   text-align: left;
@@ -283,7 +283,7 @@
 
 .__financing-calculator-2-bottom h5 {
   font-family: var(--calculator-font-family);
-  color: var(--calculator-dark-gray-color) !important;
+  color: var(--calculator-blue-color) !important;
   font-size: 20px;
   margin: 15px 0;
   opacity: 0.8;
