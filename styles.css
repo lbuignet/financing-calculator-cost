@@ -504,6 +504,10 @@ margin-bottom: 0px;
   flex-direction: column;
   align-items: center;
   width: 100%;
+  border-style: solid;
+  border-width: thin;
+  border-color: var(--calculator-blue-color);
+  border-radius: 10px;
 }
 
 .__financing-calculator-4-my-plan .__financing-calculator-4-my-plan-text {
