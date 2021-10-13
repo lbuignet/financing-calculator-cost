@@ -382,7 +382,7 @@
 .__financing-calculator-3-option-left {
   display: flex;
   align-items: center;
-  width: 200px;
+  width: 240px;
 }
 
 .__financing-calculator-3-option-selected {
@@ -1013,7 +1013,7 @@ margin-bottom: 0px;
   }
 
   .__financing-calculator-3-option-left {
-    width: 150px;
+    width: 155px;
 
   .__financing-calculator-3-option-right span {
     font-size: 13px;
