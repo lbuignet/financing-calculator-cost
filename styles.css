@@ -60,6 +60,10 @@
   margin: 0 0 20px 0;
   width: 100%;
   padding: 0;
+  border-style: solid;
+  border-width: thin;
+  border-color: var(--calculator-blue-color);
+  border-radius: 10px;
 }
 
 .__financing-calculator-user-input-1 {
@@ -187,7 +191,7 @@
 }
 
 .__financing-calculator-button-1:disabled {
-  opacity: 0.5;
+  opacity: 1;
   cursor: inherit;
 }
 
