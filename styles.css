@@ -191,7 +191,7 @@
 }
 
 .__financing-calculator-button-1:disabled {
-  opacity: 0.5;
+  opacity: 1;
   cursor: inherit;
 }
 
