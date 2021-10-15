@@ -41,7 +41,7 @@
 }
 
 .__financing-calculator-initial-title {
-  font-size: 23px;
+  font-size: 1.5em;
   line-height: 35px
 }
 
@@ -83,7 +83,8 @@
   font-family: var(--calculator-font-family);
   color: var(--calculator-blue-color);
   margin-left: 4px;
-  font-size: 16px;
+  margin-bottom: 10px
+  font-size: 18px;
 }
 
 .__financing-calculator-user-input-1 div {
