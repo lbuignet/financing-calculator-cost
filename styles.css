@@ -272,6 +272,9 @@
   transition: all 0.2s ease-in;
   width: 25%;
   align-items: center;
+  border-style: solid
+  border-width: thin;
+  border-color: var(--calculator-orange-color);
 }
 
 .__financing-calculator-credit-option:hover {
