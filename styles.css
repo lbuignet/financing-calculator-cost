@@ -67,7 +67,7 @@
 }
 
 .__financing-calculator-user-input-1 {
-  background: var(--calculator-light-blue-color);
+  background: #EAE9F4;
   padding: 30px 55px 30px 30px;
   border-radius: var(--calculator-border-radius);
   height: fit-content;
@@ -359,6 +359,9 @@
   -o-transition: all 0.2s ease-in;
   -webkit-transition: all 0.2s ease-in;
   transition: all 0.2s ease-in;
+  border-style: solid;
+  border-width: thin;
+  border-color: var(--calculator-orange-color);
 }
 
 .__financing-calculator-3-option-right span {
