@@ -208,7 +208,7 @@
 }
 
 .__financing-calculator-user-input-2 {
-  background: fade (#2f2890, 10)%;
+  background: rgba (47, 40, 144, 0.1);
   padding: 20px 20px 20px 20px;
   border-radius: var(--calculator-border-radius);
   height: fit-content;
