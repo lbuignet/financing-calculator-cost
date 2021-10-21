@@ -406,7 +406,7 @@
 .__financing-calculator-3-bottom p {
   font-family: var(--calculator-font-family);
   font-weight: lighter;
-  color: var(--calculator-light-gray-color);
+  color: var(--calculator-dark-gray-color);
   opacity: 0.9;
   font-size: 15px;
   line-height: 30px;
