@@ -137,7 +137,7 @@
   pointer-events: none;
   left: 20px;
   top: 15px;
-  font-size: 12px;
+  font-size: 13px;
   transition: 0.2s ease all;
   font-family: var(--calculator-font-family);
   color: #333;
@@ -150,7 +150,7 @@
   top: 23px;
   font-family: var(--calculator-font-family);
   color: var(--calculator-dark-gray-color);
-  font-size: 12px;
+  font-size: 13px;
 }
 
 .__financing-calculator-input-fake-value {
